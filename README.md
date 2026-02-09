@@ -174,7 +174,8 @@ iii)Using GaussianBlur
 
 
 iv) Using Median Filter
-<img width="897" height="903" alt="image" src="https://github.com/user-attachments/assets/05f9fd8e-7dba-4396-b219-e75f8ef9bcac" />
+<img width="862" height="545" alt="image" src="https://github.com/user-attachments/assets/6b26e819-7541-4d46-911b-d6dc5161a1de" />
+
 
 
 
